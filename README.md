@@ -1,5 +1,5 @@
-# Tic Tac Toe 
-# Simple implementation of a tic tac toe game in C++
+# Tic Tac Toe :v:
+**Simple implementation of a tic tac toe game in C++**
 
 ## Build and running instructions:
 * Build project by typing "make"
